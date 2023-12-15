@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Machine Learning Projects
 
 [One Hot Encoding - Salary based on Age. ](/Copy_of_data_preprocessing_tools.ipynb)
 <a href="https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Copy_of_data_preprocessing_tools.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Data Analysis Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
