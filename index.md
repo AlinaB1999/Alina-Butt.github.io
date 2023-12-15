@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [One Hot Encoding - Salary based on Age. ](/Copy_of_data_preprocessing_tools.ipynb)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<a href="https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Copy_of_data_preprocessing_tools.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
