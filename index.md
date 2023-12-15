@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[One Hot Encoding - Salary based on Age. ](/Copy_of_data_preprocessing_tools.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
