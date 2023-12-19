@@ -6,7 +6,7 @@
 <br>
 Using Feature Scaling and One Hot Encoding to preprocess Data to be used in Machine Learning Model. <br><br>
 <a href="https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Project_1.ipynb" target="_blank" rel="noopener noreferrer"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 
-<a href="https://<Alinabutt>.github.io/<Alinabutt.github.io>/Data.csv"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt = "data" title = "Data" ></a>
+
 
 ---
 ### Multiple Linear Regression Model
