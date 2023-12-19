@@ -1,8 +1,13 @@
-title: Alina Butt 
-description: > # Machine Learning Engineer, Computer Science Graduate
-title: Alina Butt 
-logo: "logo.jpg?raw=true" 
+title: Alina Butt
+logo: "logo.png?raw=true" 
 description: > 
-  email: alinabutt@hotmail.co.uk
+  Machine Learning Engineer 
   <br><br>
+  Second description 
+  <br><br>
+  <a href="https://www.linkedin.com/in/alinabutt/">View My LinkedIn Profile</a> 
   
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
