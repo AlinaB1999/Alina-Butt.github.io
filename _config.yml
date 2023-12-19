@@ -1,10 +1,11 @@
-title: Alina Butt
-logo: "logo.jpg?raw=true width="400" height="500"" 
-description:  
-  Machine Learning Engineer 
+title: John Doe # your name (or website title) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  First description 
   <br><br>
-  Degree in Computer Science with an interest in Data Analyis, Machine Learning and Artificial Intelligence. 
-  <a href="https://www.linkedin.com/in/alinabutt/">View My LinkedIn Profile</a> 
+  Second description 
+  <br><br>
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
