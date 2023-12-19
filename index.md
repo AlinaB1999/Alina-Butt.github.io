@@ -11,8 +11,8 @@ Using Feature Scaling and One Hot Encoding to preprocess Data to be used in Mach
 <a href="https://<Alinabutt>.github.io/<Alinabutt.github.io>/Data.csv" title="Data">Data</a>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Multiple Linear Regression Model]
+<br> Multiple Linear Regression model trained to understand the relationship between R&D Spend, Administration, Marketing Spend, State and Profit of 50 Start Up companies. This model is for the use of VC Funders to determine which start up company to invest in. <br>
 
 ---
 [Project 3 Title](http://example.com/)
