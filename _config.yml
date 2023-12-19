@@ -3,8 +3,6 @@ logo: "logo.png?raw=true"
 description: > 
   Machine Learning Engineer 
   <br><br>
-  Second description 
-  <br><br>
   <a href="https://www.linkedin.com/in/alinabutt/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
