@@ -1,11 +1,8 @@
 title: Alina Butt 
-<img src="logo.jpg" alt="Me" style="width:300px;height:300px;"> 
 description: 
 Machine Learning Engineer 
   <br><br>
   <a href="https://www.linkedin.com/in/alinabutt/">View My LinkedIn Profile</a> 
   
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
+
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
