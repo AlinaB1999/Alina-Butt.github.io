@@ -1,11 +1,11 @@
 title: Alina Butt # your name (or website title) here
 logo: "logo.jpg?raw=true width="400" height="500" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Machine Learning Engineer
   <br><br>
-  Second description 
+  Machine Learning Engineer and Computer Science Graduate with strong experience in data science and software engineering. A collaborative and reliable team member with proven ability and professional achievements in solving complex technical problems with elegant, well-written code. Passionate and target-driven professional with a record of academic success in using time-tested and creative techniques to model complex business problems. Experienced in communicating technical details to non-technical clients, team members, internal and external stakeholders, eager to add value to a cross-disciplinary team.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/alinabutt/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
