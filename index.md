@@ -39,14 +39,21 @@ Using Feature Scaling and One Hot Encoding to preprocess Data to be used in Mach
 - [The Rise of AI Chatbots](https://www.lancaster.ac.uk/media/lancaster-university/content-assets/documents/cyber-foundry/lcf-articles/LCFArticle-Alina-RiseOfAIChatbots_WEB.pdf)
 
 ---
-### Machine Learning Model Projects
+### Regression Model Machine Learning Projects
 
-- [Polynomial Regression Model](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Polynomial_Regression.ipynb)
-- [Support Vector Regression Model](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/SVR.ipynb)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Polynomial Model](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Polynomial_Regression.ipynb)
+- [Support Vector Model](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/SVR.ipynb)
+- [Decision Tree](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Decision_Tree.ipynb)
+- [Random Forest](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Random_Forest.ipynb)
+---
+### Classification Machine Learning Projects
 
+- [Logistic Regression](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Logistic_Regression.ipynb)
+- [K-Nearest Neighbor](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/KNN.ipynb)
+- [Support Vector Machine](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/SVM2.ipynb)
+- [Kernel SVM](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Kernel_SVM.ipynb)
+- [Naiive Bayes](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Naiive_Bayes.ipynb)
+- [Decision Tree Classification](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Decision_Tree_Classification.ipynb)
 ---
 ### Data Analysis Projects
 
