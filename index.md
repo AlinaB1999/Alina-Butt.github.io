@@ -33,12 +33,7 @@ Using Feature Scaling, Encoding and handling missing information to preprocess D
 </table>
 
 ---
-### Publications
 
-- [Can Chatbots become Human-Like?](https://www.lancashirecyberfoundry.co.uk/wp-content/uploads/2023/06/HumanLikeChatbots_WEB.pdf)
-- [The Rise of AI Chatbots](https://www.lancaster.ac.uk/media/lancaster-university/content-assets/documents/cyber-foundry/lcf-articles/LCFArticle-Alina-RiseOfAIChatbots_WEB.pdf)
-
----
 ### Regression Model Machine Learning Projects
 
 - [Polynomial Model](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Polynomial_Regression.ipynb)
@@ -60,10 +55,15 @@ Using Feature Scaling, Encoding and handling missing information to preprocess D
 ### Data Analysis Projects
 
 ---
+### Publications
 
-
-
+- [Can Chatbots become Human-Like?](https://www.lancashirecyberfoundry.co.uk/wp-content/uploads/2023/06/HumanLikeChatbots_WEB.pdf)
+- [The Rise of AI Chatbots](https://www.lancaster.ac.uk/media/lancaster-university/content-assets/documents/cyber-foundry/lcf-articles/LCFArticle-Alina-RiseOfAIChatbots_WEB.pdf)
 
 ---
+
+
+
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
