@@ -42,7 +42,7 @@ Using Feature Scaling and One Hot Encoding to preprocess Data to be used in Mach
 ### Machine Learning Model Projects
 
 - [Polynomial Regression Model](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Polynomial_Regression.ipynb)
-- [Project 2 Title](http://example.com/)
+- [Support Vector Regression Model](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/SVR.ipynb)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
