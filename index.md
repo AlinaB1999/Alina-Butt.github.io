@@ -45,6 +45,7 @@ Using Feature Scaling and One Hot Encoding to preprocess Data to be used in Mach
 - [Support Vector Model](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/SVR.ipynb)
 - [Decision Tree](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Decision_Tree.ipynb)
 - [Random Forest](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Random_Forest.ipynb)
+
 ---
 ### Classification Machine Learning Projects
 
@@ -54,6 +55,7 @@ Using Feature Scaling and One Hot Encoding to preprocess Data to be used in Mach
 - [Kernel SVM](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Kernel_SVM.ipynb)
 - [Naiive Bayes](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Naiive_Bayes.ipynb)
 - [Decision Tree Classification](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Decision_Tree_Classification.ipynb)
+
 ---
 ### Data Analysis Projects
 
