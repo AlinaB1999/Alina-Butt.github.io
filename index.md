@@ -1,12 +1,7 @@
 ## Portfolio of Projects
 
 ---
-
-### Preprocessing
-<br>
-Using Feature Scaling, Encoding and handling missing information to preprocess Data to be used in Machine Learning Model. <br><br>
-<a href="https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Project_1.ipynb" target="_blank" rel="noopener noreferrer"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 
-
+Using Feature Scaling, Encoding and handling missing information to preprocess Data to be used in Machine Learning Model. All Data in the following projects have been preprocessed.      <br>     <a href="https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Project_1.ipynb" target="_blank" rel="noopener noreferrer"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 
 
 ---
 ### Multiple Linear Regression Model
