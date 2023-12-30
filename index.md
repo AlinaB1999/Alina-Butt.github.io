@@ -39,6 +39,7 @@ Using Feature Scaling, Encoding and handling missing information to preprocess D
 ---
 ### Classification Machine Learning Projects
 In this data set, we compare the Age, Estimated Salary and whether or not they purchashed a certain model of a car. We use this model to predict if a customer will but the new model or not. I run this for all the classification types below to draw comparisons to find which is the best model for this use case. 
+<a href="https://www.w3schools.com/">Data</a>
 
 - [Logistic Regression](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Logistic_Regression.ipynb)
 - [K-Nearest Neighbor](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/KNN.ipynb)
