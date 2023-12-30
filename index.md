@@ -53,7 +53,6 @@ In this data set, we compare the Age, Estimated Salary and whether or not they p
 ### Data Analysis Projects
 ---
 ### Publications
-
 - [Can Chatbots become Human-Like?](https://www.lancashirecyberfoundry.co.uk/wp-content/uploads/2023/06/HumanLikeChatbots_WEB.pdf)
 - [The Rise of AI Chatbots](https://www.lancaster.ac.uk/media/lancaster-university/content-assets/documents/cyber-foundry/lcf-articles/LCFArticle-Alina-RiseOfAIChatbots_WEB.pdf)
 
