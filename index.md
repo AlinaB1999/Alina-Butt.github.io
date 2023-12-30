@@ -49,7 +49,6 @@ In this data set, we compare the Age, Estimated Salary and whether or not they p
 - [Decision Tree Classification](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Decision_Tree_Classification.ipynb)
 <br>
 <img src="Classification Algorithms.png" style="width: 1000px; height: auto;>
-
 <br>
 ---
 ### Data Analysis Projects
