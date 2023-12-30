@@ -48,7 +48,7 @@ In this data set, we compare the Age, Estimated Salary and whether or not they p
 - [Naiive Bayes](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Naiive_Bayes.ipynb)
 - [Decision Tree Classification](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Decision_Tree_Classification.ipynb)
 <br>
-<img src="Classification Algorithms.png" style="width: 500px; height: auto;>
+<img src="Classification Algorithms.png" style="width: 1000px; height: auto;>
 
 <br>
 ---
