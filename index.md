@@ -47,11 +47,8 @@ In this data set, we compare the Age, Estimated Salary and whether or not they p
 - [Support Vector Machine](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/SVM2.ipynb)
 - [Kernel SVM](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Kernel_SVM.ipynb)
 - [Naiive Bayes](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Naiive_Bayes.ipynb)
-- [Decision Tree Classification](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Decision_Tree_Classification.ipynb)
-<br>
-<img src="Classification Algorithms.png" style="width: 1000px; height: auto;>
-<br>
-
+- [Decision Tree Classification](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Decision_Tree_Classification.ipynb) <br>
+<img src="Classification Algorithms.png"  style="width: 1000px; height: auto;"> <br>
 ---
 ### Publications
 - [Can Chatbots become Human-Like?](https://www.lancashirecyberfoundry.co.uk/wp-content/uploads/2023/06/HumanLikeChatbots_WEB.pdf)
