@@ -51,7 +51,6 @@ In this data set, we compare the Age, Estimated Salary and whether or not they p
 <img src="Classification Algorithms.png" style="width: 1000px; height: auto;>
 ---
 ### Data Analysis Projects
-
 ---
 ### Publications
 
