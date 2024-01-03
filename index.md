@@ -63,8 +63,8 @@ In this data set, we compare the Age, Estimated Salary and whether or not they p
                 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
             </a>
         </td>
-        <td style="text-align: right; width: 60%;">
-            <img src="Clustering.png" alt="Clustering" style="width: 2000px; height: auto;">
+        <td style="text-align: right; width: 50%;">
+            <img src="clustering.png" alt="Clustering" style="width: auto; height: auto;">
         </td>
     </tr>
 </table>
