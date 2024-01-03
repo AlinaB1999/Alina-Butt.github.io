@@ -56,9 +56,7 @@ In this data set, we compare the Age, Estimated Salary and whether or not they p
     <tr>
         <td style="padding-right: 20px; width: 40%;">
             <p>
-               In this data set, we have CustomerID, Genre, Age, Annual Income and Spending Score to illustrate shoppers at a mall. The Spending Score is a metric developed by the shopping centre to measure how much each customer spends.  I                use Clustering with the Elbow method to determine the number of groups to draw conclusions between the Annual Income and Spending Score.  The business value of this model helps us identify targeted advertising for customers.<a href="https://github.com/Alinabutt/Alinabutt.github.io/blob/main/Mall_Customers.csv"> Data here</a> <br> <br> Cluster 2: 
-                Cluster 4: We should not target these customers as they already have a low income, and aim to protect these customers as part of social responsibility
-                Cluster 5: Customers have a high income and a high spending score, we can target them with new offers as they have the highest potential for purchase. <br><br></p>
+               In this data set, we have CustomerID, Genre, Age, Annual Income and Spending Score to illustrate shoppers at a mall. The Spending Score is a metric developed by the shopping centre to measure how much each customer spends.  I                use Clustering with the Elbow method to determine the number of groups to draw conclusions between the Annual Income and Spending Score.  The business value of this model helps us identify targeted advertising for customers.<a href="https://github.com/Alinabutt/Alinabutt.github.io/blob/main/Mall_Customers.csv"> Data here</a> <br> <br> Cluster 2: These customers with a high income and low spend can be targeted with advertising to increase their spending. <br><br>Cluster 4: We should not target these customers as they already have a low income, and aim to protect these customers as part of social responsibility<br><br>Cluster 5: Customers have a high income and a high spending score, we can target them with new offers as they have the highest potential for purchase. <br><br></p>
             <br>
             <a href="https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/KMeansClustering.ipynb"
                target="_blank" rel="noopener noreferrer">
@@ -66,7 +64,7 @@ In this data set, we compare the Age, Estimated Salary and whether or not they p
             </a>
         </td>
         <td style="text-align: right; width: 60%;">
-            <img src="Clustering.png" alt="Clustering" style="width: 2000px; height: auto;">
+            <img src="clustering.png" alt="Clustering" style="width: 2000px; height: auto;">
         </td>
     </tr>
 </table>
