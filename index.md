@@ -39,7 +39,7 @@ Using Feature Scaling, Encoding and handling missing information to preprocess D
 ---
 ### Classification Machine Learning Projects
 In this data set, we compare the Age, Estimated Salary and whether or not they purchashed a certain model of a car. We use this model to predict if a customer will but the new model or not. I run this for all the classification types below to draw comparisons to find which is the best model for this use case. 
-<a href="https://github.com/Alinabutt/Alinabutt.github.io/blob/main/Social_Network_Ads.csv">Data</a>
+<a href="https://github.com/Alinabutt/Alinabutt.github.io/blob/main/Social_Network_Ads.csv"> Data here</a>
 
 - [Logistic Regression](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Logistic_Regression.ipynb)
 - [K-Nearest Neighbor](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/KNN.ipynb)
@@ -48,11 +48,18 @@ In this data set, we compare the Age, Estimated Salary and whether or not they p
 - [Naiive Bayes](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Naiive_Bayes.ipynb)
 - [Decision Tree Classification](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Decision_Tree_Classification.ipynb) <br>
 <img src="Classification Algorithms.png"  style="width: 5000; height: auto;"> <br>
+---
+### Clustering Machine Learning Projects
+In this data set, we have CustomerID, Genre, Age, Annual Income and Spending Score to illustrate shoppers at a mall. The Spending Score is a metric developed by the shopping centre to measure how much each customer spends on a scale, ranging from 0 to 100. A lower score means the less a customer will spend and a higher score shows that a customer spends more. I use Clustering to find the relationship between all these variables. 
+<a href="https://github.com/Alinabutt/Alinabutt.github.io/blob/main/Mall_Customers.csv"> Data here</a>
 
+- [K Means Clustering](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/KMeansClustering.ipynb)
+- [Hierarchical Clustering](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/HierarchicalClustering.ipynb)
 ---
 ### Publications
 - [Can Chatbots become Human-Like?](https://www.lancashirecyberfoundry.co.uk/wp-content/uploads/2023/06/HumanLikeChatbots_WEB.pdf)
 - [The Rise of AI Chatbots](https://www.lancaster.ac.uk/media/lancaster-university/content-assets/documents/cyber-foundry/lcf-articles/LCFArticle-Alina-RiseOfAIChatbots_WEB.pdf)
+
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
