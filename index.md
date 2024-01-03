@@ -64,7 +64,7 @@ In this data set, we compare the Age, Estimated Salary and whether or not they p
             </a>
         </td>
         <td style="text-align: right; width: 60%;">
-            <img src="clustering.png" alt="Clustering" style="width: 2000px; height: auto;">
+            <img src="Clustering.png" alt="Clustering" style="width: 2000px; height: auto;">
         </td>
     </tr>
 </table>
