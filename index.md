@@ -47,12 +47,12 @@ In this data set, we compare the Age, Estimated Salary and whether or not they p
 - [Kernel SVM](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Kernel_SVM.ipynb)
 - [Naiive Bayes](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Naiive_Bayes.ipynb)
 - [Decision Tree Classification](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Decision_Tree_Classification.ipynb) <br>
-<img src="Classification Algorithms.png"  style="width:5000px; height: auto;"> <br>
+<img src="Classification Algorithms.png"  style="width:10000px; height: 5000;"> <br>
 
 ---
 
 ### Clustering Machine Learning Projects
-In this data set, we have CustomerID, Genre, Age, Annual Income and Spending Score to illustrate shoppers at a mall. The Spending Score is a metric developed by the shopping centre to measure how much each customer spends on a scale, ranging from 0 to 100. A lower score means the less a customer will spend and a higher score shows that a customer spends more. I use Clustering to find the relationship between all these variables. 
+In this data set, we have CustomerID, Genre, Age, Annual Income and Spending Score to illustrate shoppers at a mall. The Spending Score is a metric developed by the shopping centre to measure how much each customer spends.  I use Clustering with the Elbow method to determine the number of groups to draw conclusions between the Annual Income and Spending Score.  
 <a href="https://github.com/Alinabutt/Alinabutt.github.io/blob/main/Mall_Customers.csv"> Data here</a>
 
 - [K Means Clustering](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/KMeansClustering.ipynb)
