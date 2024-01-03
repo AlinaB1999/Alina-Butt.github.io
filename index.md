@@ -52,7 +52,7 @@ In this data set, we compare the Age, Estimated Salary and whether or not they p
 ---
 
 ### Clustering Machine Learning Projects
-In this data set, we have CustomerID, Genre, Age, Annual Income and Spending Score to illustrate shoppers at a mall. The Spending Score is a metric developed by the shopping centre to measure how much each customer spends.  I use Clustering with the Elbow method to determine the number of groups to draw conclusions between the Annual Income and Spending Score.  
+In this data set, we have CustomerID, Genre, Age, Annual Income and Spending Score to illustrate shoppers at a mall. The Spending Score is a metric developed by the shopping centre to measure how much each customer spends.  I use Clustering with the Elbow method to determine the number of groups to draw conclusions between the Annual Income and Spending Score.  The business value here is that the mall can target shoppers with a higher income to more expensive goods. 
 <a href="https://github.com/Alinabutt/Alinabutt.github.io/blob/main/Mall_Customers.csv"> Data here</a>
 
 - [K Means Clustering](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/KMeansClustering.ipynb)
