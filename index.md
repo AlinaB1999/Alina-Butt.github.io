@@ -51,7 +51,7 @@ In this data set, we compare the Age, Estimated Salary and whether or not they p
 
 ---
 
-### Clustering Machine Learning Projects 
+### K-Means Clustering Machine Learning Project
 <table style="width: 100%;">
     <tr>
         <td style="padding-right: 20px; width: 40%;">
