@@ -56,7 +56,7 @@ In this data set, we compare the Age, Estimated Salary and whether or not they p
     <tr>
         <td style="padding-right: 20px; width: 40%;">
             <p>
-               In this data set, we have CustomerID, Genre, Age, Annual Income and Spending Score to illustrate shoppers at a mall. The Spending Score is a metric developed by the shopping centre to measure how much each customer spends.  I                use Clustering with the Elbow method to determine the number of groups to draw conclusions between the Annual Income and Spending Score.
+                Using K-Means Algorithm and the elbow method to determine the number of clusters to group customers in a shopping centre, comparing groups to Annual Income and Spending Score. 
                 <a href="https://github.com/Alinabutt/Alinabutt.github.io/blob/main/Mall_Customers.csv"> Data here</a> <br> <br> 
             </p>
             <br>
