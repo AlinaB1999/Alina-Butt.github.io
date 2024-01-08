@@ -47,7 +47,7 @@ In this data set, we compare the Age, Estimated Salary and whether or not they p
 - [Kernel SVM](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Kernel_SVM.ipynb)
 - [Naiive Bayes](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Naiive_Bayes.ipynb)
 - [Decision Tree Classification](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Decision_Tree_Classification.ipynb) <br>
-<img src="Classification Algorithms.png"  style="width:auto; height:500px;"> <br>
+<img src="Classification Algorithms.png"  style="width:auto; height:auto;"> <br>
 
 ---
 
