@@ -77,7 +77,7 @@ In this data set, we compare the Age, Estimated Salary and whether or not they p
     <tr>
         <td style="padding-right: 20px; width: 40%;">
             <p>
-                Using K-Means Algorithm and the elbow method to determine the number of clusters to group customers in a shopping centre, comparing groups to Annual Income and Spending Score. 
+                Using K-Means Algorithm and building a Dendogram  to determine the number of clusters to group customers in a shopping centre, comparing groups to Annual Income and Spending Score. 
                 <a href="https://github.com/Alinabutt/Alinabutt.github.io/blob/main/Mall_Customers.csv"> Data here</a> <br> <br> 
             </p>
             <br>
