@@ -70,6 +70,7 @@ In this data set, we compare the Age, Estimated Salary and whether or not they p
         </td>
     </tr>
 </table>
+
 ---
 
 ### Hierarchical Clustering Machine Learning Project
