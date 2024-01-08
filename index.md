@@ -93,6 +93,12 @@ In this data set, we compare the Age, Estimated Salary and whether or not they p
     </tr>
 </table>
 
+---
+### Association Rule Learning Projects
+The <a href="https://github.com/Alinabutt/Alinabutt.github.io/blob/main/Market_Basket_Optimisation.csv"> Data </a> is a list of items customers put in their basket during a shopping trip. Using these 2 Association Rule Learning algorithms, items bought together frequently are highlighted and can be suggested to shoppers. 
+
+- [Apriori](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Apriori.ipynb)
+- [Eclat](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Eclat.ipynb)
 
 ---
 ### Publications
