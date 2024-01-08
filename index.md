@@ -70,6 +70,28 @@ In this data set, we compare the Age, Estimated Salary and whether or not they p
         </td>
     </tr>
 </table>
+---
+
+### Hierarchical Clustering Machine Learning Project
+<table style="width: 100%;">
+    <tr>
+        <td style="padding-right: 20px; width: 40%;">
+            <p>
+                Using K-Means Algorithm and the elbow method to determine the number of clusters to group customers in a shopping centre, comparing groups to Annual Income and Spending Score. 
+                <a href="https://github.com/Alinabutt/Alinabutt.github.io/blob/main/Mall_Customers.csv"> Data here</a> <br> <br> 
+            </p>
+            <br>
+            <a href="https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/hierarchical_clustering.ipynb"
+               target="_blank" rel="noopener noreferrer">
+                <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+            </a>
+        </td>
+        <td style="text-align: right; width: 60%;">
+            <img src="Hclustering.png" alt="Predicted vs Actual Results" style="width: 2000px; height: auto;">
+        </td>
+    </tr>
+</table>
+
 
 ---
 ### Publications
