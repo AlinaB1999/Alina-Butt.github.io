@@ -47,7 +47,7 @@ In this data set, we compare the Age, Estimated Salary and whether or not they p
 - [Kernel SVM](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Kernel_SVM.ipynb)
 - [Naiive Bayes](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Naiive_Bayes.ipynb)
 - [Decision Tree Classification](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Decision_Tree_Classification.ipynb) <br>
-<img src="Classification Algorithms.png"  style="width:auto; height:500px;"> <br>
+<img src="Classification Algorithms.png"  style="width:auto; height:300px;"> <br>
 
 ---
 
@@ -78,7 +78,7 @@ In this data set, we compare the Age, Estimated Salary and whether or not they p
     <tr>
         <td style="padding-right: 20px; width: 40%;">
             <p>
-                Using K-Means Algorithm and building a Dendogram  to determine the number of clusters to group customers in a shopping centre, comparing groups to Annual Income and Spending Score. 
+                Using Hierarchical Clustering Algorithm and building a Dendogram  to determine the number of clusters to group customers in a shopping centre, comparing groups to Annual Income and Spending Score. 
                 <a href="https://github.com/Alinabutt/Alinabutt.github.io/blob/main/Mall_Customers.csv"> Data here</a> <br> <br> 
             </p>
             <br>
@@ -88,7 +88,7 @@ In this data set, we compare the Age, Estimated Salary and whether or not they p
             </a>
         </td>
         <td style="text-align: right; width: 60%;">
-            <img src="HClustering.png" alt="Predicted vs Actual Results" style="width: 2000px; height: auto;">
+            <img src="HClustering.png" alt="Predicted vs Actual Results" style="width: auto; height: auto;">
         </td>
     </tr>
 </table>
