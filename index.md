@@ -37,6 +37,7 @@ Using Feature Scaling, Encoding and handling missing information to preprocess D
 - [Random Forest](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Random_Forest.ipynb)
 
 ---
+
 ### Classification Machine Learning Projects
 In this data set, we compare the Age, Estimated Salary and whether or not they purchashed a certain model of a car. We use this model to predict if a customer will but the new model or not. I run this for all the classification types below to draw comparisons to find which is the best model for this use case. 
 <a href="https://github.com/Alinabutt/Alinabutt.github.io/blob/main/Social_Network_Ads.csv"> Data here</a>
@@ -94,17 +95,23 @@ In this data set, we compare the Age, Estimated Salary and whether or not they p
 </table>
 
 ---
+
 ### Association Rule Learning Projects
+
 The <a href="https://github.com/Alinabutt/Alinabutt.github.io/blob/main/Market_Basket_Optimisation.csv"> Data </a> is a list of items customers put in their basket during a shopping trip. Using these 2 Association Rule Learning algorithms, items bought together frequently are highlighted and can be suggested to shoppers. 
 
 - [Apriori](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Apriori.ipynb)
 - [Eclat](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/Eclat.ipynb)
 
 ---
+### Reinforcement Learning
+
+---
+
 ### Publications
 - [Can Chatbots become Human-Like?](https://www.lancashirecyberfoundry.co.uk/wp-content/uploads/2023/06/HumanLikeChatbots_WEB.pdf)
 - [The Rise of AI Chatbots](https://www.lancaster.ac.uk/media/lancaster-university/content-assets/documents/cyber-foundry/lcf-articles/LCFArticle-Alina-RiseOfAIChatbots_WEB.pdf)
 
-
+---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
