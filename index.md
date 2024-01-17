@@ -105,7 +105,7 @@ The <a href="https://github.com/Alinabutt/Alinabutt.github.io/blob/main/Market_B
 
 ---
 ### Reinforcement Learning
-The <a href="https://github.com/Alinabutt/Alinabutt.github.io/blob/main/Market_Basket_Optimisation.csv"> Data </a> is a list of 10 different advertisements for a new vechicle. To stimulate a real time process to reduce costs, this data set is a simulation of how reinforcement learning would be used. .The click through rate is optimised for each ad over 10,000 users.  The data tells us which ad the user would click on.The columns correlate to the ad version and the rows to an individual user. I use the following algorithms to determine which is the best advertisement the company should use. 
+The <a href="https://github.com/Alinabutt/Alinabutt.github.io/blob/main/Ads_CTR_Optimisation.csv"> Data </a> is a list of 10 different advertisements for a new vechicle. To stimulate a real time process to reduce costs, this data set is a simulation of how reinforcement learning would be used. .The click through rate is optimised for each ad over 10,000 users.  The data tells us which ad the user would click on.The columns correlate to the ad version and the rows to an individual user. I use the following algorithms to determine which is the best advertisement the company should use. 
 - [Upper Confidence Bound](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/UCB.ipynb)
 
 ---
