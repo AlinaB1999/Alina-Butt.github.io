@@ -105,7 +105,8 @@ The <a href="https://github.com/Alinabutt/Alinabutt.github.io/blob/main/Market_B
 
 ---
 ### Reinforcement Learning
-The <a href="https://github.com/Alinabutt/Alinabutt.github.io/blob/main/Ads_CTR_Optimisation.csv"> Data </a> is a list of 10 different advertisements for a new vechicle. This dataset is a simulation, as this data is typically collected in real time.The click through rate is optimised for each ad over 10,000 users.  The data tells us which ad the user clicks on.The columns correlate to the ad version and the rows to an individual user. The goal is to find the advertisement with the highest click through rate for our client. 
+Using reinforcement learning to solve the Multi armed bandit problem and determine which solution has a higher confidence. The goal is to find the best distribution and exploit this outcome. <br><br>
+The <a href="https://github.com/Alinabutt/Alinabutt.github.io/blob/main/Ads_CTR_Optimisation.csv"> Data </a> is a list of 10 different advertisements for a new vechicle. This dataset is a simulation. The click through rate is measured for each ad over 10,000 users.  The data tells us which ad the user clicks on.The columns correlate to the ad version and the rows to an individual user. The goal is to find the advertisement with the highest click through rate for our client. 
 - [Upper Confidence Bound](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/UCB.ipynb)
 
 ---
