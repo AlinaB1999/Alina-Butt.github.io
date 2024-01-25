@@ -109,7 +109,7 @@ Using reinforcement learning to solve the Multi armed bandit problem and determi
 The <a href="https://github.com/Alinabutt/Alinabutt.github.io/blob/main/Ads_CTR_Optimisation.csv"> Data </a> is a list of 10 different advertisements for a new vechicle. This dataset is a simulation. The click through rate is measured for each ad over 10,000 users.  The data tells us which ad the user clicks on.The columns correlate to the ad version and the rows to an individual user. The goal is to find the advertisement with the highest click through rate for our client. 
 - [Upper Confidence Bound](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/UCB.ipynb)
 - [Thompson Sampling](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/ThompsonSampling.ipynb)
-<img src="UPDVSTS.png"  style="width:1000px; height:auto;"> <br>
+<img src="UPDVSTS.png"  style="width:2000px; height:auto;"> <br>
 
 
 ---
