@@ -110,9 +110,11 @@ The <a href="https://github.com/Alinabutt/Alinabutt.github.io/blob/main/Ads_CTR_
 - [Upper Confidence Bound](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/UCB.ipynb)
 - [Thompson Sampling](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/ThompsonSampling.ipynb)
 <img src="UPDVSTS.png"  style="width:2000px; height:auto;"> <br>
-
-
 ---
+
+### Natural Language Processing
+Using Sentiment Analysis and the Bag of Words model to analyse review from a resteraunt to predict the rating. 
+- [Bag of Words](https://colab.research.google.com/github/Alinabutt/Alinabutt.github.io/blob/main/natural_language_processing.ipynb)
 
 ### Publications
 - [Can Chatbots become Human-Like?](https://www.lancashirecyberfoundry.co.uk/wp-content/uploads/2023/06/HumanLikeChatbots_WEB.pdf)
